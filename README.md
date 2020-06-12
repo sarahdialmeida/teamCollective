@@ -15,5 +15,9 @@ All things new development team related
 - [ ] JSons n Daughters
 - [x] Codin n Co
 - [ ] Team Tenacity
+git pull
+
+
+
 
 
